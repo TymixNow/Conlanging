@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "6ace2dbed011dda1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecece7f0ff1b85b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa53b32f2843f220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conlanging-main/TCR1/Evolution Timeline/-10c/Lexicon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lexicon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fffdd079e4e96e62",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "06086f9f56d321a3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ff50d95b904cc221",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d17918ef0d3d1ec1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "30c3f10b49fe7d59",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "06481652c0e047ff",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "36c91b87a40f95b1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Conlanging-main/TCR1/Evolution Timeline/-10c/Lexicon.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2f6dfe262b5f0c79",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Conlanging-main/TCR1/Evolution Timeline/-10c/Lexicon.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "80f98ba6d88f978c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Conlanging-main/TCR1/Evolution Timeline/-10c/Lexicon.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fa53b32f2843f220",
+  "lastOpenFiles": [
+    "Conlanging-main/TCR1/project_desc.md",
+    "Conlanging-main/useful/wordlist.md",
+    "Conlanging-main/TCR1/Evolution Timeline/-10c/Phonetics.md",
+    "Conlanging-main/TCR1/Evolution Timeline/-10c/Lexicon.md"
+  ]
+}
