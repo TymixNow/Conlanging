@@ -2,5 +2,8 @@
   "interfaceFontFamily": "Helvetica,Noto Sans,Noto Sans Phoenician",
   "textFontFamily": "Noto Sans",
   "monospaceFontFamily": "Courier New",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "style"
+  ]
 }
