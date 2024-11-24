@@ -25,14 +25,14 @@
 |fall           |f |' |h |
 |fight          |b |' |b |
 |find           |
-|fly            |h |h |f |
+|fly            |- |- |f |
 |go             |
 |grow           |
 |hang           |- |h |- |
 |hear (a sound) |' |k |' |
 |jump           |
 |kiss           |t |x |s |
-|laugh          |- |h |- |
+|laugh          |- |- |- |
 |learn          |
 |lie down       |
 |lift           |
@@ -65,7 +65,7 @@
 |swim           |- |b |l |
 |taste          |x |m |n |
 |teach          |
-|think          |h |m |m |
+|think          |- |m |m |
 |throw          |f |s |s |
 |touch          |
 |turn           |
