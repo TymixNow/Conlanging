@@ -1,5 +1,6 @@
 {
   "interfaceFontFamily": "Helvetica,Noto Sans,Noto Sans Phoenician",
   "textFontFamily": "Noto Sans",
-  "monospaceFontFamily": "Courier New"
+  "monospaceFontFamily": "Courier New",
+  "theme": "obsidian"
 }
