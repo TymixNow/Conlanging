@@ -15,7 +15,7 @@ cssclasses:
 | --- | --- | --- |
 | Y   | i   | u   |
 | E   | ɛ   | ɔ   |
-| A   | a   | ɑ   |
+| A   | a   | ɒ   |
 
 # Phonemics
 |     | B   | D   | G   | H   |
