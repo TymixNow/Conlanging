@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conlanging-main/TCR1/Evolution Timeline/-10c/TCR Tables.md",
+                "file": "TCR1/Evolution Timeline/02.-9c/Phonetics/Phonetics.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "TCR Tables"
+              "title": "Phonetics"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Conlanging-main/TCR1/Evolution Timeline/-10c/Lexicon.md",
+            "file": "TCR1/Evolution Timeline/01.-10c/Lexicon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,11 +150,41 @@
   },
   "active": "fa53b32f2843f220",
   "lastOpenFiles": [
-    "Conlanging-main/TCR1/Evolution Timeline/-10c/Lexicon.md",
-    "Conlanging-main/TCR1/Evolution Timeline/-10c/TCR Tables.md",
-    "Conlanging-main/TCR1/Evolution Timeline/-10c/Phonetics.md",
-    "Conlanging-main/TCR1/project_desc.md",
-    "Conlanging-main/TCR1/Evolution Timeline/-10c/Phonotactics.md",
-    "Conlanging-main/useful/wordlist.md"
+    "TCR1/Evolution Timeline/02.-9c/Evolution step.md",
+    "TCR1/Evolution Timeline/02.-9c/Phonetics/Phonetics.md",
+    "TCR1/Evolution Timeline/01.-10c/Lexicon/Lexicon.md",
+    "TCR1/Evolution Timeline/02.-9c/Lexicon/Lexicon.md",
+    "TCR1/Evolution Timeline/02.-9c/Lexicon/Translation.md",
+    "TCR1/Evolution Timeline/02.-9c/Lexicon",
+    "TCR1/Evolution Timeline/02.-9c/Phonetics/Phono-alphabet (sorting order).md",
+    "TCR1/Evolution Timeline/02.-9c/Phonetics/Phonotactics.md",
+    "TCR1/Evolution Timeline/02.-9c/Phonetics",
+    "TCR1/Evolution Timeline/02.-9c/Grammar/Parts of speech.md",
+    "TCR1/Evolution Timeline/02.-9c/Grammar",
+    "TCR1/Evolution Timeline/02.-9c",
+    "TCR1/Evolution Timeline/01.-10c/Lexicon/Translation.md",
+    "TCR1/Evolution Timeline/01.-10c/Grammar/Parts of speech.md",
+    "TCR1/Evolution Timeline/01.-10c/Grammar",
+    "TCR1/Evolution Timeline/01.-10c/Lexicon",
+    "TCR1/Evolution Timeline/01.-10c/Phonetics",
+    "TCR1/Evolution Timeline/01.-10c/Phonetics/Phonetics.md",
+    "TCR1/Evolution Timeline/01.-10c/Phonetics/Phono-alphabet (sorting order).md",
+    "TCR1/Evolution Timeline/01.-10c/Phonetics/Phonotactics.md",
+    "useful/1. Syntax/1.2. Structural questions/1.2.1. Internal structure of the sentence.md",
+    "useful/1. Syntax/1.1. General/1.1.1. Sentence types.md",
+    "useful/1. Syntax/1.2. Structural questions",
+    "useful/1. Syntax/1.1. General",
+    "useful/1. Syntax",
+    "TCR1/Evolution Timeline/01.-10c/1. Syntax/1.2. Structural questions/1.2.1. Internal structure of the sentence.md",
+    "TCR1/Evolution Timeline/01.-10c/1. Syntax/1.1. General/1.1.1. Sentence types.md",
+    "useful/01.-10c/1. Syntax/1.2. Structural questions/1.2.1. Internal structure of the sentence.md",
+    "useful/01.-10c/1. Syntax/1.1. General/1.1.1. Sentence types.md",
+    "useful/01.-10c/Phono-alphabet (sorting order).md",
+    "useful/01.-10c/Translation.md",
+    "useful/01.-10c/Phonetics.md",
+    "useful/01.-10c/Lexicon.md",
+    "useful/01.-10c/Phonotactics.md",
+    "TCR1/Evolution Timeline/01.-10c/1. Syntax/1.1. General/1.1.1. Sentence types/1.1.1.1..md",
+    "TCR1/Evolution Timeline/01.-10c/1. General/Untitled.md"
   ]
 }
