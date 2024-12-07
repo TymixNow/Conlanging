@@ -14,7 +14,7 @@ cssclasses:
 |     | I   | U   |
 | --- | --- | --- |
 | Y   | i   | u   |
-| E   | ɛ   | ɔ   |
+| O   | e   | o   |
 | A   | a   | ɒ   |
 
 # Phonemics
@@ -28,5 +28,5 @@ cssclasses:
 |     | I   | U   |
 | --- | --- | --- |
 | Y   | i   | u   |
-| E   | e   | o   |
+| O   | e   | o   |
 | A   | a   | å   |
