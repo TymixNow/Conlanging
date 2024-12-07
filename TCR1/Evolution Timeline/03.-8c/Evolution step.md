@@ -16,5 +16,5 @@ V > i \_C#
 ```
 ```sound_change
 og > oh \_C#
-
+V > 0 \V_
 ```

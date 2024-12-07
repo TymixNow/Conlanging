@@ -3,8 +3,8 @@
 |---------|----------------|
 | itik    | small/little   |
 | ittok   | win            |
-| idadooh | lose           |
-| aak     | pain           |
+| idadoh | lose           |
+| ak     | pain           |
 | iy      | happy          |
 | aitoh   | hear (a sound) |
 | aidok   | go             |
@@ -20,7 +20,7 @@
 | @doh    | carry          |
 | @fik    | soft           |
 | @l@koy  | work           |
-| pioy    | cry            |
+| piy    | cry            |
 | tatok   | touch          |
 | takok   | count          |
 | takoh   | teach          |
@@ -37,7 +37,7 @@
 | dok     | break          |
 | danadoy | dance          |
 | dalok   | grow           |
-| dook    | pay            |
+| dok    | pay            |
 | gadoh   | shoot (a gun)  |
 | galoh   | cook           |
 | g@doy   | buy            |
@@ -57,7 +57,7 @@
 | -ahoy   | laugh          |
 | -ammoh  | think          |
 | zadok   | draw           |
-| z@ok    | bend           |
+| z@k    | bend           |
 | ha-oy   | hang           |
 | h@'iy   | strong         |
 | haxoh   | sleep          |
