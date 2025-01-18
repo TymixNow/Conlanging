@@ -1,5 +1,6 @@
 | TCRlang | EN             |
 | ------- | -------------- |
+<<<<<<< HEAD
 | iti-    | small/little   |
 | ittik   | win            |
 | idadåh  | lose           |
@@ -30,10 +31,43 @@
 | batah   | fight          |
 | båbak   | build          |
 | bålah   | speak/say      |
+=======
+| itih    | small/little   |
+| ittik   | win            |
+| idad@r  | lose           |
+| aie     | pain           |
+| aiah    | happy          |
+| aitar   | hear (a sound) |
+| aidak   | go             |
+| ailah   | call           |
+| ailkar  | pray           |
+| akah    | find           |
+| agah    | die            |
+| amnah   | eat            |
+| al@lar  | sing           |
+| @eh     | ugly           |
+| @pah    | catch          |
+| @kad    | beat           |
+| @dar    | carry          |
+| @fih    | soft           |
+| @l@k@l  | work           |
+| pi@lh   | cry            |
+| tatak   | touch          |
+| takak   | count          |
+| takar   | teach          |
+| tadat   | walk           |
+| tsar    | throw          |
+| txask   | kiss           |
+| baiak   | play           |
+| batar   | fight          |
+| b@bak   | build          |
+| b@lar   | speak/say      |
+>>>>>>> b650026 (I'm back)
 | delik   | pull           |
 | daiag   | jump           |
 | dailai  | music          |
 | dak     | break          |
+<<<<<<< HEAD
 | danada- | dance          |
 | dalak   | grow           |
 | dåk     | pay            |
@@ -73,3 +107,44 @@
 | lu'å-   | slow           |
 | xalat   | wash           |
 | xala-   | clean          |
+=======
+| danadah | dance          |
+| dalak   | grow           |
+| d@k     | pay            |
+| gadar   | shoot (a gun)  |
+| galag   | cook           |
+| g@dah   | buy            |
+| g@gol   | beverage       |
+| g@rek   | attack         |
+| guglal  | drink          |
+| f@iah   | fall           |
+| fasar   | smell          |
+| farik   | push           |
+| farah   | burn           |
+| falak   | fly            |
+| fubah   | explode        |
+| sakah   | cut            |
+| sakar   | shake          |
+| safah   | fast           |
+| s@zar   | dig            |
+| har@h   | laugh          |
+| hammar  | think          |
+| zadak   | draw           |
+| z@ak    | bend           |
+| rahah   | hang           |
+| r@'ah   | strong         |
+| raxar   | sleep          |
+| mirak   | mix/stir       |
+| mailar  | love           |
+| mamnar  | taste          |
+| mallai  | singing        |
+| m@lak   | animal         |
+| likik   | run            |
+| laiar   | melt           |
+| lallai  | water          |
+| laxar   | swim           |
+| l@hah   | warm           |
+| lu'@h   | slow           |
+| xalat   | wash           |
+| xalah   | clean          |
+>>>>>>> b650026 (I'm back)

@@ -20,4 +20,10 @@
     - [ ] Phonology
     - [ ] Lexicon
     - [ ] Inflection
+<<<<<<< HEAD
     - [ ] Word formation
+=======
+    - [ ] Word formation
+4. Fixes
+	- [ ] SAMPAfy transcription
+>>>>>>> b650026 (I'm back)

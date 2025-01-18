@@ -18,11 +18,19 @@
 | dry                      |         |
 | expensive                |         |
 | famous                   |         |
+<<<<<<< HEAD
 | fast                     | safa-   |
 | female                   |         |
 | flat                     |         |
 | good                     |         |
 | happy                    | aia-    |
+=======
+| fast                     | safah   |
+| female                   |         |
+| flat                     |         |
+| good                     |         |
+| happy                    | aiah    |
+>>>>>>> b650026 (I'm back)
 | hard                     |         |
 | healthy                  |         |
 | heavy                    |         |
@@ -50,21 +58,37 @@
 | short (long)             |         |
 | short (vs tall)          |         |
 | sick                     |         |
+<<<<<<< HEAD
 | slow                     | lu'å-   |
 | small/little             | iti-    |
 | soft                     | åfi-    |
 | strong                   | hå'a-   |
+=======
+| slow                     | lu'@h   |
+| small/little             | itih    |
+| soft                     | @fih    |
+| strong                   | r@'ah   |
+>>>>>>> b650026 (I'm back)
 | tall                     |         |
 | thick                    |         |
 | thin                     |         |
 | tight                    |         |
+<<<<<<< HEAD
 | ugly                     | åe-     |
 | warm                     | lå-a-   |
+=======
+| ugly                     | @eh     |
+| warm                     | l@hah   |
+>>>>>>> b650026 (I'm back)
 | weak                     |         |
 | wet                      |         |
 | wide                     |         |
 | young                    |         |
+<<<<<<< HEAD
 | animal                   | målak   |
+=======
+| animal                   | m@lak   |
+>>>>>>> b650026 (I'm back)
 | beak                     |         |
 | bird                     |         |
 | cat                      |         |
@@ -99,7 +123,11 @@
 | song                     |         |
 | statue                   |         |
 | beer                     |         |
+<<<<<<< HEAD
 | beverage                 | gågol   |
+=======
+| beverage                 | g@gol   |
+>>>>>>> b650026 (I'm back)
 | coffee                   |         |
 | juice                    |         |
 | milk                     |         |
@@ -347,7 +375,11 @@
 | injury                   |         |
 | light                    |         |
 | map                      |         |
+<<<<<<< HEAD
 | no                       |         |
+=======
+| no                       | g@'     |
+>>>>>>> b650026 (I'm back)
 | noun                     |         |
 | pain                     | aie     |
 | pattern                  |         |
@@ -493,7 +525,11 @@
 | victim                   |         |
 | wife                     |         |
 | woman                    |         |
+<<<<<<< HEAD
 | attack                   | gåhek   |
+=======
+| attack                   | g@rek   |
+>>>>>>> b650026 (I'm back)
 | ball                     |         |
 | bill                     |         |
 | contract                 |         |
@@ -560,6 +596,7 @@
 | train                    |         |
 | transportation           |         |
 | truck                    |         |
+<<<<<<< HEAD
 | beat                     | åkad    |
 | bend                     | zåak    |
 | break                    | dak     |
@@ -587,20 +624,59 @@
 | feed                     |         |
 | fight                    | batah   |
 | find                     | aka-    |
+=======
+| beat                     | @kad    |
+| bend                     | z@ak    |
+| break                    | dak     |
+| build                    | b@bak   |
+| burn                     | farah   |
+| buy                      | g@dah   |
+| call                     | ailah   |
+| carry                    | @dar    |
+| catch                    | @pah    |
+| clean                    | xalah   |
+| close                    |         |
+| cook                     | galag   |
+| count                    | takak   |
+| cry                      | pi@lh   |
+| cut                      | sakah   |
+| dance                    | danadah |
+| die                      | agah    |
+| dig                      | s@zar   |
+| draw                     | zadak   |
+| drink                    | guglal  |
+| drive                    |         |
+| eat                      | amnah   |
+| explode                  | fubah   |
+| fall                     | f@iah   |
+| feed                     |         |
+| fight                    | batar   |
+| find                     | akah    |
+>>>>>>> b650026 (I'm back)
 | fly                      | falak   |
 | follow                   |         |
 | go                       | aidak   |
 | grow                     | dalak   |
+<<<<<<< HEAD
 | hang                     | ha-a-   |
 | hear (a sound)           | aitah   |
 | jump                     | daiag   |
 | kill                     |         |
 | kiss                     | txask   |
 | laugh                    | -ahå-   |
+=======
+| hang                     | rahah   |
+| hear (a sound)           | aitar   |
+| jump                     | daiag   |
+| kill                     |         |
+| kiss                     | txask   |
+| laugh                    | har@h   |
+>>>>>>> b650026 (I'm back)
 | learn                    |         |
 | lie down                 |         |
 | lift                     |         |
 | listen (music)           |         |
+<<<<<<< HEAD
 | lose                     | idadåh  |
 | love                     | mailah  |
 | marry                    |         |
@@ -632,6 +708,39 @@
 | teach                    | takah   |
 | think                    | -ammah  |
 | throw                    | tsah    |
+=======
+| lose                     | idad@r  |
+| love                     | mailar  |
+| marry                    |         |
+| melt                     | laiar   |
+| mix/stir                 | mirak   |
+| open                     |         |
+| pass by                  |         |
+| pay                      | d@k     |
+| play                     | baiak   |
+| pray                     | ailkar  |
+| pull                     | delik   |
+| push                     | farik   |
+| run                      | likik   |
+| see (a bird)             |         |
+| sell                     |         |
+| shake                    | sakar   |
+| shoot (a gun)            | gadar   |
+| sign                     |         |
+| sing                     | al@lar  |
+| sit                      |         |
+| sleep                    | raxar   |
+| smell                    | fasar   |
+| smile                    |         |
+| speak/say                | b@lar   |
+| stand                    |         |
+| stop                     |         |
+| swim                     | laxar   |
+| taste                    | mamnar  |
+| teach                    | takar   |
+| think                    | hammar  |
+| throw                    | tsar    |
+>>>>>>> b650026 (I'm back)
 | touch                    | tatak   |
 | turn                     |         |
 | wake up                  |         |
@@ -640,5 +749,9 @@
 | watch (TV)               |         |
 | wear                     |         |
 | win                      | ittik   |
+<<<<<<< HEAD
 | work                     | ålåkål  |
+=======
+| work                     | @l@k@l  |
+>>>>>>> b650026 (I'm back)
 | write                    |         |

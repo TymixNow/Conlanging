@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "interfaceFontFamily": "Helvetica,Noto Sans,Noto Sans Phoenician",
   "textFontFamily": "Noto Sans",
   "monospaceFontFamily": "Courier New",
@@ -6,4 +7,22 @@
   "enabledCssSnippets": [
     "style"
   ]
+=======
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "style",
+    "theme-no-bg2",
+    "FiraSans-Medium",
+    "JacquardaBastarda9-Regular",
+    "KodeMono-VariableFont_wght",
+    "MartianMono-VariableFont_wdth,wght",
+    "PlaywritePL-VariableFont_wght",
+    "ShadowsIntoLight-Regular",
+    "AzeretMono-VariableFont_wght"
+  ],
+  "accentColor": "#ffffff"
+>>>>>>> b650026 (I'm back)
 }

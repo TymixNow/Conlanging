@@ -19,12 +19,21 @@ cssclasses:
 | A   | a   |     |
 
 # Phonemics
+<<<<<<< HEAD
 |     | B   | D   | G   | H   |
 | --- | --- | --- | --- | --- |
 | N   | m   | n   |     |     |
 | P   | p b | t d | k g | '   |
 | F   | f v | s z | - h |     |
 | L   |     | x l |     |     |
+=======
+|     | B   | D   | G   | H |
+| --- | --- | --- | --- | - |
+| N   | m   | n   |     |   |
+| P   | p b | t d | k g | ' |
+| F   | f v | s z | r   | h |
+| L   |     | x l |     |   |
+>>>>>>> b650026 (I'm back)
 
 |     | I   | U   |
 | --- | --- | --- |

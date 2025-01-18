@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "TCR1/Evolution Timeline/02.-9c/Lexicon/Translation post-grammar.md",
+=======
+                "file": "TCR1/project_desc.md",
+>>>>>>> b650026 (I'm back)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Translation post-grammar"
+=======
+              "title": "project_desc"
+>>>>>>> b650026 (I'm back)
             }
           }
         ]
@@ -95,7 +103,11 @@
         "state": {
           "type": "backlink",
           "state": {
+<<<<<<< HEAD
             "file": "TCR1/Evolution Timeline/02.-9c/Lexicon/Translation post-grammar.md",
+=======
+            "file": "TCR1/Evolution Timeline/05.-6c/Lexicon/Translation post-phonetics.md",
+>>>>>>> b650026 (I'm back)
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,6 +162,7 @@
   },
   "active": "fa53b32f2843f220",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "TCR1/Evolution Timeline/02.-9c/Evolution step.md",
     "TCR1/Evolution Timeline/02.-9c/Lexicon/Translation post-grammar.md",
     "TCR1/Evolution Timeline/02.-9c/Lexicon/Translation pre-grammar.md",
@@ -186,5 +199,42 @@
     "useful/01.-10c/Lexicon.md",
     "useful/01.-10c/Phonotactics.md",
     "TCR1/Evolution Timeline/01.-10c/1. Syntax/1.1. General/1.1.1. Sentence types/1.1.1.1..md"
+=======
+    "TCR1/Evolution Timeline/04.-7c/Phonetics/Phonetics-post.md",
+    "TCR1/Todo",
+    "TCR1/Evolution Timeline/04.-7c/Phonetics/Phonetics-pre.md",
+    "TCR1/Evolution Timeline/04.-7c/Lexicon/Translation post-phonetics.md",
+    "TCR1/Evolution Timeline/04.-7c/Lexicon/Lexicon.md",
+    "TCR1/Evolution Timeline/05.-6c/Grammar/Parts of speech.md",
+    "useful/TCR creation process.md",
+    "TCR1/Evolution Timeline/05.-6c/Evolution step.md",
+    "TCR1/Evolution Timeline/05.-6c/Grammar/Forms.md",
+    "TCR1/Evolution Timeline/05.-6c/Lexicon/Translation post-phonetics.md",
+    "TCR1/Evolution Timeline/05.-6c/Grammar",
+    "TCR1/Evolution Timeline/04.-7c/Evolution step.md",
+    "TCR1/Evolution Timeline/05.-6c/Lexicon",
+    "TCR1/project_desc.md",
+    "TCR1/Evolution Timeline/04.-7c/Lexicon/Translation pre-phonetics.md",
+    "TCR1/Evolution Timeline/01.-10c/Lexicon/Translation.md",
+    "useful/TCR Tables.md",
+    "TCR1/Evolution Timeline/02.-9c/Evolution step.md",
+    "TCR1/Evolution Timeline/03.-8c/Evolution step.md",
+    "TCR1/Evolution Timeline/05.-6c/Untitled.md",
+    "TCR1/Evolution Timeline/05.-6c",
+    "TCR1/Evolution Timeline/04.-7c/Untitled",
+    "TCR1/Evolution Timeline/04.-7c/Phonetics/Phono-alphabet (sorting order).md",
+    "TCR1/Evolution Timeline/04.-7c/Phonetics/Phonotactics.md",
+    "TCR1/Evolution Timeline/04.-7c/Grammar/Parts of speech post-phonetics.md",
+    "TCR1/Evolution Timeline/04.-7c/Grammar/Parts of speech pre-phonetics.md",
+    "TCR1/Evolution Timeline/01.-10c/Lexicon/Lexicon.md",
+    "TCR1/Evolution Timeline/03.-8c/Grammar/Parts of speech.md",
+    "TCR1/Evolution Timeline/02.-9c/Grammar/Parts of speech.md",
+    "TCR1/Evolution Timeline/04.-7c/Grammar/Evolution step.md",
+    "TCR1/Evolution Timeline/03.-8c/Lexicon",
+    "TCR1/Evolution Timeline/03.-8c/Phonetics",
+    "TCR1/Evolution Timeline/03.-8c/Grammar",
+    "TCR1/Evolution Timeline/03.-8c",
+    "TCR1/03.-8c/Lexicon"
+>>>>>>> b650026 (I'm back)
   ]
 }

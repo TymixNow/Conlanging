@@ -1,5 +1,6 @@
 
 | TCRlang | EN             |
+<<<<<<< HEAD
 |---------|----------------|
 | itik    | small/little   |
 | ittok   | win            |
@@ -33,10 +34,46 @@
 | b@loh   | speak/say      |
 | delok   | pull           |
 | dayoh   | jump           |
+=======
+| ------- | -------------- |
+| itik    | small/little   |
+| ittok   | win            |
+| idador  | lose           |
+| ak      | pain           |
+| iy      | happy          |
+| aitor   | hear (a sound) |
+| aidok   | go             |
+| ailoy   | call           |
+| ailkor  | pray           |
+| akoy    | find           |
+| agoy    | die            |
+| amnoy   | eat            |
+| al@lor  | sing           |
+| @hiy    | ugly           |
+| @poy    | catch          |
+| @kor    | beat           |
+| @dor    | carry          |
+| @fik    | soft           |
+| @l@koy  | work           |
+| poy     | cry            |
+| tatok   | touch          |
+| takok   | count          |
+| takor   | teach          |
+| tadok   | walk           |
+| tsor    | throw          |
+| txok    | kiss           |
+| bayok   | play           |
+| bator   | fight          |
+| b@bok   | build          |
+| b@lor   | speak/say      |
+| delok   | pull           |
+| dayor   | jump           |
+>>>>>>> b650026 (I'm back)
 | dailay  | music          |
 | dok     | break          |
 | danadoy | dance          |
 | dalok   | grow           |
+<<<<<<< HEAD
 | dok    | pay            |
 | gadoh   | shoot (a gun)  |
 | galoh   | cook           |
@@ -71,6 +108,42 @@
 | lallay  | water          |
 | laxoh   | swim           |
 | l@-iy   | warm           |
+=======
+| dok     | pay            |
+| gador   | shoot (a gun)  |
+| galor   | cook           |
+| g@doy   | buy            |
+| g@gay   | beverage       |
+| g@rok   | attack         |
+| gugloy  | drink          |
+| f@hoy   | fall           |
+| fasor   | smell          |
+| farok   | push           |
+| faroy   | burn           |
+| falok   | fly            |
+| fuboy   | explode        |
+| sakoy   | cut            |
+| sakor   | shake          |
+| safiy   | fast           |
+| s@zor   | dig            |
+| haroy   | laugh          |
+| hammor  | think          |
+| zadok   | draw           |
+| z@hok   | bend           |
+| rahoy   | rang           |
+| r@'iy   | strong         |
+| raxor   | sleep          |
+| mirok   | mix/stir       |
+| mailor  | love           |
+| mamnor  | taste          |
+| malloy  | singing        |
+| m@lak   | animal         |
+| likok   | run            |
+| layor   | melt           |
+| lallay  | water          |
+| laxor   | swim           |
+| l@hiy   | warm           |
+>>>>>>> b650026 (I'm back)
 | lu'iy   | slow           |
 | xalok   | wash           |
 | xaliy   | clean          |

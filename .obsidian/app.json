@@ -21,5 +21,15 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar"
+<<<<<<< HEAD
   ]
+=======
+  ],
+  "spellcheck": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": false,
+  "smartIndentList": true,
+  "useTab": true,
+  "autoConvertHtml": false
+>>>>>>> b650026 (I'm back)
 }

@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 ```sound_change
 å > @
 ah > ag \_#
 a- > ay \_#
+=======
+
+```sound_change
+ar > ag \_#
+ah > ay \_#
+>>>>>>> b650026 (I'm back)
 
 ai > ay \_#
 
@@ -14,7 +21,11 @@ iV > ik \_#
 
 [a|e|o|u] > a \_C#
 
+<<<<<<< HEAD
 a[-|l|x] > ay \_#
+=======
+a[h|l|x] > ay \_#
+>>>>>>> b650026 (I'm back)
 
 a[voiced, not y] > ag \_#
 a[voiceless] > ak \_#
@@ -31,4 +42,8 @@ V > i \_C#
 ```sound_change
 ii > yi
 yiy > iy \_#
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> b650026 (I'm back)

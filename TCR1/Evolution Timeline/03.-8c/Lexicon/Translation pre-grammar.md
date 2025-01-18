@@ -42,18 +42,28 @@
 | galig   | cook           |
 | g@diy   | buy            |
 | g@gay   | beverage       |
+<<<<<<< HEAD
 | g@hik   | attack         |
 | gugliy  | drink          |
 | f@y     | fall           |
 | fasig   | smell          |
 | fahik   | push           |
 | fahiy   | burn           |
+=======
+| g@rik   | attack         |
+| gugliy  | drink          |
+| f@y     | fall           |
+| fasig   | smell          |
+| farik   | push           |
+| fariy   | burn           |
+>>>>>>> b650026 (I'm back)
 | falik   | fly            |
 | fubiy   | explode        |
 | sakiy   | cut            |
 | sakig   | shake          |
 | safiy   | fast           |
 | s@zig   | dig            |
+<<<<<<< HEAD
 | -ahoy   | laugh          |
 | -ammig  | think          |
 | zadik   | draw           |
@@ -62,6 +72,16 @@
 | h@'iy   | strong         |
 | haxig   | sleep          |
 | mihik   | mix/stir       |
+=======
+| haroy   | laugh          |
+| hammig  | think          |
+| zadik   | draw           |
+| z@ik    | bend           |
+| rahiy   | hang           |
+| r@'iy   | strong         |
+| raxig   | sleep          |
+| mirik   | mix/stir       |
+>>>>>>> b650026 (I'm back)
 | mailig  | love           |
 | mamnig  | taste          |
 | malliy  | singing        |
@@ -70,7 +90,11 @@
 | layig   | melt           |
 | lallay  | water          |
 | laxig   | swim           |
+<<<<<<< HEAD
 | l@-iy   | warm           |
+=======
+| l@hiy   | warm           |
+>>>>>>> b650026 (I'm back)
 | lu'oy   | slow           |
 | xalik   | wash           |
 | xaliy   | clean          |
